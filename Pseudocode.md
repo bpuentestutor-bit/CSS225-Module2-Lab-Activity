@@ -1,16 +1,21 @@
-Problem 1:
+## Problem 1
+```
 START
 Display "Hello World"
 END
+```
 
-Problem 2:
+## Problem 2
+```
 START
 Ask user for their name
 Store name
-Display "Hello" + name
+Display "Hello " + name
 END
+```
 
-Problem 3:
+## Problem 3
+```
 START
 Ask user for first number
 Ask user for second number
@@ -25,3 +30,4 @@ ELSE
 END IF
 
 END
+```
